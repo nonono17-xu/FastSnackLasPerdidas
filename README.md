@@ -24,9 +24,13 @@ Aplicación de relaciones UML como herencia, asociación, agregación y dependen
 *Estructura del modelo*
 
 Persona: Clase base que contiene nombre y teléfono.
+
 Cliente: Hereda de Persona y agrega la dirección del cliente.
+
 Producto: Representa los artículos disponibles para la venta.
+
 Pedido: Gestiona los productos seleccionados por un cliente y su estado.
+
 EstadoPedido: Enumeración que define los estados válidos de un pedido (PENDIENTE, EN_PREPARACION, EN_CAMINO, ENTREGADO, CANCELADO).
 
 Este proyecto sirve como ejemplo práctico de modelado UML e implementación de sistemas orientados a objetos en Java, siguiendo buenas prácticas de diseño y organización del código.
