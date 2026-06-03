@@ -3,7 +3,7 @@ FastSnack es un sistema desarrollado en Java orientado a la gestión de pedidos 
 
 El sistema permite registrar clientes, gestionar un catálogo de productos y crear pedidos compuestos por uno o varios productos. Cada pedido está asociado a un único cliente y cuenta con estados definidos mediante una enumeración, lo que facilita el seguimiento del proceso desde su creación hasta su entrega.
 
-Características principales
+*Características principales*
 
 Gestión de clientes con información personal y dirección.
 
@@ -21,7 +21,8 @@ Implementación de encapsulamiento mediante atributos privados y métodos de acc
 
 Aplicación de relaciones UML como herencia, asociación, agregación y dependencia.
 
-Estructura del modelo
+*Estructura del modelo*
+
 Persona: Clase base que contiene nombre y teléfono.
 Cliente: Hereda de Persona y agrega la dirección del cliente.
 Producto: Representa los artículos disponibles para la venta.
