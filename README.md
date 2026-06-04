@@ -31,6 +31,6 @@ Producto: Representa los artículos disponibles para la venta.
 
 Pedido: Gestiona los productos seleccionados por un cliente y su estado.
 
-EstadoPedido: Enumeración que define los estados válidos de un pedido (PENDIENTE, EN_PREPARACION, EN_CAMINO, ENTREGADO, CANCELADO).
+EstadoPedido: Enumeración que define los estados válidos de un pedido (Pendiente, Revición, Enviado, Entregado).
 
 Este proyecto sirve como ejemplo práctico de modelado UML e implementación de sistemas orientados a objetos en Java, siguiendo buenas prácticas de diseño y organización del código.
